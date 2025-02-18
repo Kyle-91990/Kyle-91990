@@ -46,6 +46,6 @@ Welcome to my portfolio! I am a passionate developer skilled in Python, HTML, CS
 ## 📫 Contact Me
 
 - 📧 Email: [kyle.archie@outlook.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 🔗 LinkedIn: [www.linkedin.com/in/kevin-samwel-121807346]
 
 Feel free to reach out for collaborations or just to say hi! 😊
